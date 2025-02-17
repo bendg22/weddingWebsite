@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Example of dynamic content updates for the homepage
-    const eventDate = new Date('2023-06-15'); // Set your wedding date here
+    const eventDate = new Date('2025-07-07'); // Set your wedding date here
     const countdownElement = document.getElementById('countdown');
     if (countdownElement) {
         const updateCountdown = () => {
